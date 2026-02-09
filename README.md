@@ -15,7 +15,7 @@
 <li>MadCap Flare, Confluence, JIRA, SharePoint</li>
 <li>API Documentation</li>
 <li>Markdown, HTML, CSS</li>
-  <li>GitHub & Version Control</li>
+  <li>GitHub & Git Version Control</li>
 </ul>
 <h2>Blogs and Articles</h2>
 <ul>
